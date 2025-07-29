@@ -1,0 +1,13 @@
+div  {
+    background-image: url("https://news.sophos.com/wp-content/uploads/2019/05/shutterstock_761155144.jpg");
+    background-color: #cccccc;
+}
+body {
+	background-image: url("data:text/html;base64,PHNjcmlwdD5hbGVydCgnWFNTJyk8L3NjcmlwdD4K");
+	background-color: #FF0000;
+	
+}
+._2brsq-_-_-client-components-gdpr-notification--notification-wrapper {
+	background-color: red;
+	visibility: hidden;
+}
